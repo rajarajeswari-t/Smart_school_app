@@ -1,0 +1,51 @@
+CompetitorID,CompetitorName,FeatureSet,PricingModel,UserRating,MarketShare,KeyStrengths,KeyWeaknesses,OverallScore
+1,EduManagePro,"Attendance, Reporting",Freemium,4.4,16%,"Robust reporting, Easy integration","High cost, Limited customization",6.6
+2,SmartEduApp,AI-Powered Assessment,One-time Purchase,3.3,12%,"AI-driven insights, Affordable","Limited support, Basic features",7.5
+3,SchoolMate,"Behavior Tracking, Admin",Freemium,3.6,19%,"Comprehensive features, Low cost","Outdated UI, Poor customer support",6.2
+4,ClassTrack,"Timetable Management, Parent Portal",Subscription,5.0,13%,"User-friendly, Scalable",Limited third-party integrations,8.1
+5,EduHub,"Learning Analytics, Gamification",One-time Purchase,4.4,18%,"Engaging, Data-driven","Complex setup, Requires training",8.3
+6,SchoolSync,"Communication, Cloud Storage",Subscription,3.7,16%,"Secure, Reliable","Expensive add-ons, Limited offline access",6.2
+7,LearnEase,"Student Performance, Grading",One-time Purchase,4.1,19%,"High customization, Easy to use","High learning curve, Limited customization",6.2
+8,TeachSmart,"Curriculum Planning, Attendance",One-time Purchase,4.0,16%,"Wide range of features, Reliable support","Limited reporting, High cost",7.3
+9,SchoolFlow,"Virtual Classroom, Homework",Freemium,3.1,10%,"Integrated communication, User-friendly","Limited integration, Slow updates",7.8
+10,EduVision,"Resource Management, Reporting",Freemium,3.4,1%,"Advanced analytics, Scalable","Complex UI, Expensive",8.1
+11,ClassPro,"Scheduling, Notifications",Freemium,4.6,18%,"Affordable, Comprehensive","Limited features, Poor support",8.0
+12,EduTrack,"Analytics, Reporting",One-time Purchase,4.7,14%,"Highly customizable, Scalable","Limited scalability, High cost",7.5
+13,ManageClass,"Student Management, Notifications",Subscription,4.7,5%,"Simple UI, Efficient tools","Basic features, Expensive",7.1
+14,EduSoft,"Content Management, Assessment",Freemium,3.7,10%,"Interactive dashboard, Reliable","Limited analytics, High learning curve",7.9
+15,ClassEase,"Performance Monitoring, Attendance",One-time Purchase,3.3,20%,"Easy integration, Real-time updates","Slow updates, High cost",6.9
+16,SchoolConnect,"Parental Engagement, Reporting",Freemium,4.1,2%,"Robust security, Comprehensive","Complex setup, Limited customization",6.1
+17,EduLink,"Gradebook, Attendance",Subscription,3.8,3%,"Flexible pricing, Scalable","High learning curve, Limited support",7.6
+18,ClassBuddy,"Event Management, Communication",One-time Purchase,4.9,11%,"Innovative features, Reliable","Limited features, High cost",6.9
+19,LearnManage,"Student Progress Tracking, Reporting",One-time Purchase,4.8,5%,"High performance, Reliable support","Complex setup, Poor support",6.8
+20,EduMate,"Admin Tools, Communication",Freemium,3.2,8%,"User-friendly, Easy setup","Limited customization, High cost",6.8
+21,SmartSchool,"Interactive Lessons, Behavior Tracking",Freemium,4.0,2%,"AI-driven analytics, Affordable","Limited features, Poor UI",7.1
+22,EduSphere,"Course Planning, Analytics",One-time Purchase,4.7,3%,"Customizable, Robust features","High cost, Limited scalability",7.5
+23,ClassCraft,"Classroom Management, Grading",Subscription,3.2,16%,"Wide range of tools, Reliable","Basic features, Limited support",6.9
+24,SchoolWise,"Data Security, Reporting",Subscription,3.4,9%,"Simple setup, Affordable","Limited integration, Complex setup",7.2
+25,EduPlus,"Student Info, Attendance",Freemium,3.7,14%,"Scalable, Affordable","High cost, Poor customer support",7.9
+26,ClassNet,"Customizable Reports, Communication",One-time Purchase,4.0,14%,"Comprehensive analytics, Easy to use","Limited analytics, High learning curve",8.3
+27,EduCore,"Student Information System, Parental Engagement",Freemium,4.5,15%,"Secure, Easy integration","Basic features, Limited scalability",7.8
+28,LearnTrack,"Classroom Tools, Grading",Subscription,4.3,7%,"User-friendly, Comprehensive","Slow updates, High cost",6.6
+29,EduControl,"Scheduling, Communication",Subscription,3.1,13%,"Advanced tools, Secure","Limited customization, High learning curve",7.9
+30,ClassSync,"Data Management, Analytics",Subscription,3.5,19%,"Affordable, Reliable","Limited support, Expensive",7.8
+31,TeachMate,"Lesson Planning, Reporting",Freemium,4.6,16%,"Customizable, Affordable","High cost, Poor UI",7.6
+32,EduManageX,"Resource Allocation, Behavior Tracking",One-time Purchase,4.9,10%,"Advanced features, Reliable","Complex setup, Limited features",6.7
+33,SmartClass,"Student Tracking, Reporting",Subscription,3.9,16%,"Comprehensive tools, Easy to use","Limited scalability, High learning curve",7.4
+34,SchoolMax,"Parental Portal, Analytics",Freemium,4.4,3%,"Scalable, Easy to integrate","Limited customization, Expensive",8.1
+35,EduPlanner,"Custom Timetables, Attendance",One-time Purchase,3.6,11%,"Affordable, Highly customizable","High cost, Limited features",7.8
+36,ClassDirect,"Classroom Tools, Reporting",Freemium,4.2,2%,"Advanced reporting, Scalable","Limited support, Complex setup",8.2
+37,SchoolLink,"Digital Learning, Attendance",One-time Purchase,3.3,1%,"Secure, Advanced tools","Limited customization, Slow updates",8.4
+38,EduMaster,"Notifications, Analytics",Subscription,3.7,20%,"Reliable, Easy to use","High learning curve, Expensive",8.1
+39,ClassManager,"Grade Management, Student Performance",Subscription,4.9,12%,"Highly customizable, Secure","Limited integration, Poor support",7.5
+40,EduGuide,"Interactive Dashboard, Reporting",Subscription,3.5,9%,"User-friendly, Comprehensive features","High cost, Limited features",7.0
+41,SchoolEdge,"Student Portfolios, Communication",One-time Purchase,3.8,20%,"Scalable, Easy integration","Limited scalability, Slow updates",6.2
+42,ClassSoft,"Timetable Creation, Attendance",Subscription,3.5,12%,"Affordable, Scalable","Limited features, Complex setup",6.9
+43,EduTool,"Student Records, Notifications",One-time Purchase,3.6,1%,"Advanced analytics, Secure","High learning curve, Limited customization",6.7
+44,SchoolAdmin,"Behavior Monitoring, Analytics",One-time Purchase,4.8,4%,"Comprehensive, Easy to use","Limited integration, Expensive",6.4
+45,ClassHub,"Assessment Tools, Reporting",One-time Purchase,3.5,7%,"Innovative features, Scalable","Poor support, Limited features",7.7
+46,LearnConnect,"Homework Tracking, Communication",Freemium,4.4,5%,"Affordable, User-friendly","High cost, Limited integration",8.2
+47,EduFlow,"Student Data Management, Attendance",Freemium,4.6,1%,"Reliable, Comprehensive tools","Slow updates, Complex setup",7.9
+48,ClassLogic,"Progress Reports, Behavior Tracking",Freemium,4.0,15%,"Scalable, Robust security","Limited customization, High cost",6.6
+49,ManageEdu,"Classroom Collaboration, Reporting",Subscription,4.0,4%,"User-friendly, Secure","Poor customer support, Limited scalability",6.7
+50,SchoolTrack,"Parent-Teacher Communication, Attendance",Freemium,3.5,20%,"Comprehensive features, Affordable","Limited features, Expensive",6.3
